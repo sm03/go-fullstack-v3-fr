@@ -1,0 +1,25 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Node du projet go-fullstack-v3-fr",
+  "keywords": [
+    "Node",
+    "JavaScript",
+    "Nodemon"
+  ],
+  "homepage": "https://github.com/sm03/go-fullstack-v3-fr#readme",
+  "bugs": {
+    "url": "https://github.com/sm03/go-fullstack-v3-fr/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sm03/go-fullstack-v3-fr.git"
+  },
+  "license": "ISC",
+  "author": "sm03",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
